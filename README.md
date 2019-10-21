@@ -1,4 +1,4 @@
-# breast_cancer_classification
+# Breast Cancer Classification
 Breast cancer classification with Machine learning algorithms
 
 This script contains basic usage of scikit-learn ML library
